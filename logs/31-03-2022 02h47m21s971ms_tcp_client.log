@@ -1,0 +1,18 @@
+31-03-2022 02:47:22:048 tcp_client [INFO] : inici client http
+31-03-2022 02:47:22:052 tcp_client [INFO] : inici HTTPclient.get 
+31-03-2022 02:47:22:052 tcp_client [INFO] : HTTP server_address: uoc.edu
+31-03-2022 02:47:22:052 tcp_client [INFO] : HTTP server_port: 80
+31-03-2022 02:47:22:052 tcp_client [INFO] : HEAD / HTTP/1.0
+
+31-03-2022 02:47:22:086 tcp_client [TRACE] : Socket created
+31-03-2022 02:47:22:175 tcp_client [TRACE] : Socket closed
+31-03-2022 02:47:22:175 tcp_client [INFO] : HTTP/1.1 200 OK
+dDate: Thu, 31 Mar 2022 00:47:21 GMT
+dContent-Type: text/html
+dConnection: close
+dServer: Apache
+dLast-Modified: Tue, 26 Jan 2021 17:11:14 GMT
+dAccept-Ranges: bytes
+dX-Powered-By: ModLayout/5.1
+dAccess-Control-Allow-Origin: *
+d

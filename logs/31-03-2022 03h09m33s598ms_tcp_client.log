@@ -1,0 +1,16 @@
+31-03-2022 03:09:33:684 tcp_client [INFO] : inici client http
+31-03-2022 03:09:33:708 tcp_client [INFO] : inici HTTPclient.get 
+31-03-2022 03:09:33:708 tcp_client [INFO] : HTTP server_address: uoc.edu
+31-03-2022 03:09:33:708 tcp_client [INFO] : HTTP server_port: 80
+31-03-2022 03:09:33:708 tcp_client [INFO] : HEAD / HTTP/1.0
+
+31-03-2022 03:09:34:174 tcp_client [TRACE] : Socket created
+31-03-2022 03:13:22:636 tcp_client [INFO] : inici HTTPclient.get 
+31-03-2022 03:13:22:827 tcp_client [INFO] : HTTP server_address: uoc.edu
+31-03-2022 03:13:22:993 tcp_client [INFO] : HTTP server_port: 80
+31-03-2022 03:13:23:320 tcp_client [INFO] : HEAD / HTTP/1.0
+
+31-03-2022 03:13:23:829 tcp_client [TRACE] : Socket created
+31-03-2022 03:19:26:692 tcp_client [INFO] : inici HTTPclient.get 
+31-03-2022 03:19:28:591 tcp_client [INFO] : HTTP server_address: uoc.edu
+31-03-2022 03:19:29:408 tcp_client [INFO] : HTTP server_port: 80

@@ -1,0 +1,8 @@
+31-03-2022 02:19:20:045 tcp_client [INFO] : inici client http
+31-03-2022 02:19:20:055 tcp_client [INFO] : inici HTTPclient.get 
+31-03-2022 02:19:20:056 tcp_client [INFO] : HTTP server_address: localhost
+31-03-2022 02:19:20:056 tcp_client [INFO] : HTTP server_port: 5436
+31-03-2022 02:19:20:056 tcp_client [INFO] : HEAD / HTTP/1.0
+
+31-03-2022 02:19:20:095 tcp_client [ERROR] : Connection refused: connect
+31-03-2022 02:19:20:095 tcp_client [INFO] : 
